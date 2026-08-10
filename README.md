@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Amit 👋
 
-<!--
-**AMSONI777/AMSONI777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate researcher at the University of Central Oklahoma, working at the intersection of infrastructure-as-code security, cloud security, and applied machine learning.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🔒 Researching AI-generated infrastructure code security as part of my thesis
+- 📜 Security+ certified, working through CySA+ and AWS certifications
+- 🧠 Building well-rounded ML/AI skills through Coursera coursework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects:**
+- 🐳 [Docker Hardening Strategies](https://github.com/AMSONI777/docker-hardening-project) — quantitative comparison of container hardening strategies, presented at Oklahoma Research Day 2026
+- 🌐 [Agentic Translation System](https://github.com/AMSONI777/Agentic-Translation-System) — modular AI translation platform with real-time voice streaming
+
+**Connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/amitsus/)
+
+*Profile updated as I complete certifications and new projects — check back for progress.*
