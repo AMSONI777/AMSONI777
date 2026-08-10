@@ -3,9 +3,9 @@
 Cybersecurity graduate researcher at the University of Central Oklahoma, working at the intersection of infrastructure-as-code security, cloud security, and applied machine learning.
 
 **Currently:**
-- 🔒 Researching AI-generated infrastructure code security as part of my thesis
-- 📜 Security+ certified, working through CySA+ and AWS certifications
-- 🧠 Building well-rounded ML/AI skills through Coursera coursework
+- 🔒 Researching AI-generated infrastructure code security as part of my thesis.
+- 📜 CompTIA Security+ certified, working through CompTIA CySA+ and AWS certifications.
+- 🧠 Building well-rounded Machine Learning skills through Coursera coursework.
 
 **Featured projects:**
 - 🐳 [Docker Hardening Strategies](https://github.com/AMSONI777/docker-hardening-project) — quantitative comparison of container hardening strategies, presented at Oklahoma Research Day 2026
