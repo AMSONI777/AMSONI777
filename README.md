@@ -3,7 +3,7 @@
 Cybersecurity graduate researcher at the University of Central Oklahoma, working at the intersection of infrastructure-as-code security, cloud security, and applied machine learning.
 
 **Currently:**
-- 🔒 Researching vulnerabilities IaC security as part of my thesis.
+- 🔒 Researching vulnerabilities in IaC security as part of my thesis.
 - 📜 CompTIA Security+ certified, working through CompTIA CySA+ and AWS certifications.
 - 🧠 Building well-rounded Machine Learning skills through Coursera coursework.
 
