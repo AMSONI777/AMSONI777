@@ -14,4 +14,4 @@ Cybersecurity graduate researcher at the University of Central Oklahoma, working
 **Connect:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/amitsus/)
 
-*Profile updated as I complete certifications and new projects — check back for progress.*
+*Profile updated as I complete certifications and new projects. Check back for progress.*
